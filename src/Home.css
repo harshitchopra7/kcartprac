@@ -1,0 +1,13 @@
+.image{
+    margin-top: -12%;
+    margin-left: 40%;
+    width: 60%;
+    height: 300px;
+}
+.insidebanner{
+    margin-left: 40px;
+    margin-top: 10%;
+}
+.home_row {
+    display: flex;
+}

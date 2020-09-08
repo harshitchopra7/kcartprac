@@ -1,0 +1,63 @@
+.header {
+    display: flex;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    width: 100%;
+    background-color: #000B18;
+    height: 60px;
+}
+.home-button{
+    text-decoration: none;
+}
+.k-cart {
+    font-family: 'Caesar Dressing', cursive;
+    color: 	#FF7F50;
+    padding-left: 20px;
+    font-size: 50px; 
+    text-decoration: none;
+    margin-top: 0;
+}
+.searchfield{
+    align-items: center;
+}
+.searchbox {
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.searchicon{
+    margin-left: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+    background-color: #FF7F50;
+    border-radius: 5px;
+}
+.centre-elements{
+    display: flex;
+}
+.to-align{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 18px;
+    margin-left: 40px;
+    font-weight: 700;
+}
+.decoration{
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.cart{
+    display: flex;
+}
+.individual{
+    color: 	white;
+}
+.cart-count{
+    color: 	white;
+    margin-left: -1px;
+    margin-top: -8px;
+}
+.cart-color{
+    color: #FF4500;
+}

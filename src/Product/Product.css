@@ -1,0 +1,12 @@
+.products{
+    display: flex;
+    align-items: center;
+}
+.product-card{
+    width: 200px;
+    align-items: center;
+    cursor: pointer;
+}
+.product-card.hover{
+    border-radius: 50px;
+}
